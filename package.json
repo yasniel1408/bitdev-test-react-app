@@ -9,6 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "preview": "vite preview",
   "dependencies": {
     "@test-organization-bit/my-scope.hello-world": "^0.0.2",
     "react": "^18.2.0",
